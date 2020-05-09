@@ -1,0 +1,20 @@
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\bin\Debug\OOF CLICKER.exe.config
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\bin\Debug\OOF CLICKER.exe
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\bin\Debug\OOF CLICKER.pdb
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF CLICKER.csprojAssemblyReference.cache
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF_CLICKER.Form1.resources
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF_CLICKER.Properties.Resources.resources
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF CLICKER.csproj.GenerateResource.cache
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF CLICKER.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF CLICKER.exe
+C:\Users\Raghav\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF CLICKER.pdb
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\bin\Debug\OOF CLICKER.exe.config
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\bin\Debug\OOF CLICKER.exe
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\bin\Debug\OOF CLICKER.pdb
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF_CLICKER.Form1.resources
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF_CLICKER.Properties.Resources.resources
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF CLICKER.csproj.GenerateResource.cache
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF CLICKER.exe
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF CLICKER.pdb
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF CLICKER.csprojAssemblyReference.cache
+C:\Users\ragha\source\repos\OOF CLICKER\OOF CLICKER\obj\Debug\OOF_CLICKER.ViewHotKeys.resources
